@@ -15,10 +15,10 @@ Thanks for reading me!
 **********************
 
 ## Instructions to run the code
-Clone code from GitHub
-Install dependencies
-### npm install
-Run React devevelopment server (http://localhost:3000)
-### npm start
-To build for production
-### npm run build
+### Clone code from GitHub
+### Install dependencies
+### `npm install`
+### Run React devevelopment server (http://localhost:3000)
+### `npm start`
+### To build for production
+### `npm run build`

@@ -1,6 +1,6 @@
 # dwongdoolan-react-journal (Journal App)
 
-This is simple single-page web application with a registration page and allows
+This is a simple single-page web application with a registration page and allows
 the user to make text-based journal entries. This project has React 17.0.1 UI
 and no server backend. When the app is refreshed the data is lost.
 
